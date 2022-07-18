@@ -1,3 +1,5 @@
 HTTPS连接git
 
 添加reg修改
+
+拉去reg
