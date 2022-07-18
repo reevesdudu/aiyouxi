@@ -2,4 +2,4 @@ HTTPS连接git
 
 添加reg修改
 
-拉去reg
+拉取reg更新
