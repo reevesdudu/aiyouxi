@@ -12,3 +12,8 @@ HTTPS连接git
 
 拉取main
 
+
+添加reg修改
+
+拉取reg更新
+
